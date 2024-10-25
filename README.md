@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nccuong</h1>
-<h3 align="center">A human who want to be rich, so he thought IT would be a solution.</h3>
+<h3 align="center"</h3>
 
 - 📫 How to reach me **it.nccuong@gmail.com**
 
